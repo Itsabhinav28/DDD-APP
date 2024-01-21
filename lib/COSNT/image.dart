@@ -1,0 +1,10 @@
+const appicon = 'assets/images/whash.jpg';
+const bgimage = 'assets/images/bgimage.jpg';
+const homeicon = 'assets/images/home-icon-vector.jpg';
+const profileicon = 'assets/images/R (2).png';
+const metaGuide = 'assets/images/meta.jpg';
+const connect = 'assets/images/connect.jpg';
+const chatboticon = 'assets/images/chatbot icon.jpg';
+const ar = 'assets/images/ar image.jpg';
+const aiavtar = 'assets/images/avatar guide.jpg';
+const fitness = 'assets/images/yoga.jpg';
