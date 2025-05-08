@@ -51,22 +51,10 @@ NYC bridges gaps with a **multi-platform ecosystem** (website, mobile app, VR/AR
 5. **Stay Active**: Compete in yoga/fitness challenges with real-time posture feedback.  
 6. **Track Progress**: Parents and users monitor achievements and health metrics via dashboards.  
 
-## Mission  
-To **eliminate drug abuse** by transforming education into an immersive, stigma-free journey. We envision a society where technology empowers resilience, awareness, and holistic well-being for all.  
-
 ## Impact  
 - 📉 **Reduced Drug Abuse**: Engaging education lowers addiction rates.  
 - 🔐 **Safe Spaces**: Privacy-first tools encourage help-seeking behavior.  
 - 💪 **Healthier Lifestyles**: Fitness integration promotes physical/mental wellness.  
 - 🌍 **Global Community**: Cross-platform access ensures inclusivity across regions.  
-
-## Team  
-**Digital Drug Detox**  
-- Akshat Gupta  
-- Shubham Raj  
-- Sagar Teotia  
-- Abhinav Mishra  
-
-**Join the movement to build a drug-free future—one immersive lesson at a time.**  
 
 Made with ❤️ for a resilient, aware, and empowered generation.  
