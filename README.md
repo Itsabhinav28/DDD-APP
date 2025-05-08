@@ -3,7 +3,7 @@
 **Revolutionizing Anti-Drug Education Through Immersive Technology**  
 
 <div align="center">
-  <img src="assets/nyc-banner.jpg" alt="NYC Banner" width="800"/>
+  <img src="assets/nyc-banner.png" alt="NYC Banner" width="800"/>
 </div>  
 
 NYC is a groundbreaking platform combining **metaverse experiences, augmented reality, AI guidance, and gamified learning** to combat drug abuse and delinquency. Designed for all age groups, it educates, engages, and empowers users to make informed decisions while fostering a drug-free lifestyle through cutting-edge technology and community support.  
